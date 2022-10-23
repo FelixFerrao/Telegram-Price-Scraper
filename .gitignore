@@ -1,0 +1,6 @@
+# ignore the virtual environment
+/telegram-price-monitor
+
+# Miscellanous
+/__pycache__
+.code-workspace
