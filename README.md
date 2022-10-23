@@ -18,6 +18,8 @@ pip install virtualenv
 pip install -r requirements.txt
 ```
 
+___Create a___ `.env` ___file in the project directory for storing the___ `TOKEN` ___and___ `MONGO_URI`
+
 ## Telegram Bot creation
 1) Search for the **BotFather** telegram channel on the telegram app and create your bot.
 2) Copy the token of your bot and add it in the .env file
