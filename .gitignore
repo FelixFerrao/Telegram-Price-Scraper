@@ -2,5 +2,5 @@
 /telegram-price-monitor
 
 # Miscellanous
-/__pycache__
+app/__pycache__
 .code-workspace
